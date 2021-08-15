@@ -1,0 +1,1 @@
+Little test program of Julia language.
